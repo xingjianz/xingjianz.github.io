@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Xingjian Zhao"
   pronouns         : # example: "she/her"  
-  bio              : "CS PHD student at RPI"
+  bio              : "PHD student at RPI"
   location         : "Troy, NY, United States"
   employer         : "Rensselaer Polytechnic Institute"
   uri              : # URL
