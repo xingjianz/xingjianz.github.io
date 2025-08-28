@@ -62,3 +62,8 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+
+
+{% for post in site.cv %}
+  {% include archive-single.html %}
+{% endfor %}
